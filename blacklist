@@ -63853,7 +63853,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mediaserver.bwinpartypartners.com
 0.0.0.0 www.everestjs.net
 # 0.0.0.0 cdn.optimizely.com #[affects sigfig.com/ 2go.com]
-0.0.0.0 cdn.static.zdbb.net
+
 # [Akamai][AS20940][204.245.128.0 - 204.245.191.255]
 # [Akamai][AS33659][23.0.0.0 - 23.67.255.255]
 0.0.0.0 b.6sc.co  #[WebBug]
